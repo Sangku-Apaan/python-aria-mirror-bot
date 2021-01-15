@@ -20,11 +20,12 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 # Upcoming features (TODOs):
 
 # How to deploy?
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sangku-Apaan/python-aria-mirror-bot/tree/master)<br>
 Deploying is pretty much straight forward and is divided into several steps as follows:
 
 - Clone this repo:
 ```
-git clone https://github.com/AnggaR96s/python-aria-mirror-bot mirror-bot/
+git clone https://github.com/Sangku-Apaan/python-aria-mirror-bot mirror-bot/
 cd mirror-bot
 ```
 - Install dependencies for running setup scripts:
