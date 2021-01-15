@@ -8,7 +8,7 @@
     "googledrive"
   ],
   "repository": "https://github.com/Sangku-Apaan/python-aria-mirror-bot",
-  "success_url": "https://telegram.dog/LeechYourTorrentsBot",
+  "success_url": "https://telegram.dog/Glass404_Bot",
   "website": "https://github.com/Sangku-Apaan/python-aria-mirror-bot",  
   "env": {
     "BOT_TOKEN": {

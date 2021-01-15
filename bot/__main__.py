@@ -73,7 +73,7 @@ def update(update, context):
     branches = ["master", "staging"]
     text = update.effective_message.text
     msg = sendMessage("Fetching Updates....", context.bot, update)
-    repo_url = "https://github.com/AnggaR96s/python-aria-mirror-bot.git"
+    repo_url = "https://github.com/Sangku-Apaan/python-aria-mirror-bot.git"
     try:
         repo = Repo()
     except NoSuchPathError as error:
